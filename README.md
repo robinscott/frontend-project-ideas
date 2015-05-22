@@ -10,3 +10,5 @@ Exercises for learning UI and front-end technologies
 * Drag and Drop parking app
 * Integrate Google Maps, Twitter and Facebook APIs into website
 * Responsive emails
+* Quiz
+* Financial calculator
