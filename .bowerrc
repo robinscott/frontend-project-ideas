@@ -1,5 +1,10 @@
 {
 	"analytics": false,
-	"registry": "http://uiLearningChallenges:5678",
+  	"registry": {
+		"search": [
+			"http://bower.meer-spacestation.co.uk",
+			"https://bower.herokuapp.com"
+		]
+	},
   	"timeout": 300000
 }
