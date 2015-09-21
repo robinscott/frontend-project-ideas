@@ -1,4 +1,4 @@
-#Frontend & Node.js micro-project ideas that challenge specific skills.
+#Frontend micro-project ideas that challenge specific skills.
 
 Each project should meet the following criteria:
 
