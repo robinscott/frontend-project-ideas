@@ -14,7 +14,7 @@ project in this repo. If it doesn't exist, then make it.
 5. Relevant, free materials & resources should be listed with each
 project.
 
-# Draft Project Outline:
+## Draft Project Outline:
 (These are not yet ordered or linked together according to the above
 standards. )
 
@@ -49,11 +49,11 @@ images and include a featured image.
 - Refactor a terrible stylesheet. Bonus: Use Sass and write a mixin to
   reduce repetition.
 
-# Todo:
+## Todo:
 - Create project templates according to archive values.
 - Add dificulty tags to each project.
 
-# Other:
+### Other:
 - Carousel
 - To do list
 - Address book
