@@ -1,8 +1,5 @@
-# UI learning challenges
+## Frontend misc project ideas
 
-Exercises for learning UI and front-end technologies
-
-* Shopping basket (Red Gate test)
 * Carousel
 * To do list
 * Address book
