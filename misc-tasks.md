@@ -1,4 +1,4 @@
-FrontEnd Projects: Practical projects to master applicable skills.
+## Practical project tasks to master applicable frontend skills.
 ===
 
 Frontend & Node.js micro-project ideas that challenge specific skills.
