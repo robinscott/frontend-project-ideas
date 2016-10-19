@@ -14,6 +14,9 @@ project.
 (These are not yet ordered or linked together according to the above
 standards. )
 
+## General
+https://github.com/karan/Projects
+
 ## JavaScript
 - Find a javascript (or jQuery) pluggin that doesn't have tests. Fork
   the repo and write tests with Jasmine. Bonus: Send a pull request to
